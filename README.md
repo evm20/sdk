@@ -14,7 +14,6 @@ SDK: https://www.npmjs.com/package/@trustevm/sdk
 
 
 # **Trust EVM Mainnet**
-
 - network id: 15554 
 - Core/Factory address: 
 - Router/Periphery address: 
