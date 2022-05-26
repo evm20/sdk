@@ -9,7 +9,7 @@ SDK: https://www.npmjs.com/package/@trustevm/sdk
 - wBCH address: 0xC28428563B942993BDA88ECbD7215FBFa64F5C1C
 - Multicall address: 0xaC8A72D995B6683B3E864A1E9d71cFd84eDbF64f
 - Explorer: (https://www.trustscan.one)
-- RPC address: 
+- RPC address: https://api.testnet-dev.trust.one
 
 
 # **Trust EVM Mainnet**
